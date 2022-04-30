@@ -38,7 +38,6 @@
 ## Fundamentos HTTP
 11. É um padrão de comunicação que é utilizado entre sistemas. Apesar de a função do http e https serem as mesmas o https é diferente pois é mais seguro, ele tem uma camada ssl que otimiza a segurança.
 12. Alguns métodos são:
-
 * GET
 * POST
 * PUT
